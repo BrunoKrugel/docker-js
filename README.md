@@ -1,5 +1,5 @@
-# Learning Docker
+# Learning Docker basics
 
-docker build -t pingpong .
+`docker build -t pingpong .`
 
-docker run -it --rm -p 3000:3000 pingpong
+`docker run -it --rm -p 3000:3000 pingpong`
